@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Aditya Sharma
 
 I am a Future Full-Stack developer I am still enhancing my skills in backend development I also have good knowledge of Programming languages like Java,C++ & JavaScript and intermediate knowledge of python.
 
