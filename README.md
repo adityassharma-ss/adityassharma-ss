@@ -6,7 +6,7 @@ I am a Future Full-Stack developer I am still enhancing my skills in backend dev
 ✉️  You can contact me at adityashf7@gmail.com.com <br>
 🚀  I'm currently working on Cloud Development & Networking. <br>
 🧠  I'm learning Data Structure and Algorithm + Data Science <br>
-🤝  I'm open to collaborating on UI UX and Web developement <br>
+🤝  I'm open to collaborating on projects <br>
 ⚡  I love to make connections online. <br>
 
 Skills
