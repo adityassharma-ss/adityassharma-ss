@@ -10,7 +10,6 @@ I am a Future Full-Stack developer I am still enhancing my skills in backend dev
 ⚡  I love to make connections online. <br>
 
 <h3>Langauges and Tools familiar with </h3>
-<br>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" style="max-width: 100%;"></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" style="max-width: 100%;"></a>
 <a href="https://www.oracle.com/java/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" style="max-width: 100%;"></a>
@@ -22,15 +21,10 @@ I am a Future Full-Stack developer I am still enhancing my skills in backend dev
 <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a>
 
 <h3> Socials </h3>
-<br>
-<br>
 <a href="https://www.linkedin.com/in/aditya-sharma-47b787201/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>
 <a href="https://twitter.com/adityalosblanco" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="max-width: 100%;"></a>
 
-<br>
-
 <h3> Badges </h3>
-<br>
 <b>My GitHub Stats</b>
 <br>
 
