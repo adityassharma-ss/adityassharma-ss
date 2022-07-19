@@ -34,4 +34,5 @@ Badges
 <b>My GitHub Stats</b>
 <br>
 
-
+<a href="http://www.github.com/adityassharma-ss">
+  <img src="https://camo.githubusercontent.com/bd040cd6bb18f24d3f837cde114befef5b00ac012bdb7a60c3ffc727052c0b30/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d53616e736b61722d6b68616e64656c77616c2673686f775f69636f6e733d7472756526686964653d26636f756e745f707269766174653d74727565267469746c655f636f6c6f723d30383931623226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3038393162322662675f636f6c6f723d31633139313726686964655f626f726465723d747275652673686f775f69636f6e733d74727565" alt="Sanskar-khandelwal's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Sanskar-khandelwal&amp;show_icons=true&amp;hide=&amp;count_private=true&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;"></a>
