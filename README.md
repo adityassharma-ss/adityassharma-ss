@@ -26,3 +26,12 @@ Socials
 <br>
 <a href="(https://www.linkedin.com/in/aditya-sharma-47b787201/)" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>
 <a href="https://www.twitter.com/penzemafan" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="max-width: 100%;"></a>
+
+<br>
+
+Badges
+<br>
+<b>My GitHub Stats</b>
+<br>
+
+
