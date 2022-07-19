@@ -3,7 +3,7 @@
 I am a Future Full-Stack developer I am still enhancing my skills in backend development I also have good knowledge of Programming languages like Java,C++ & JavaScript and intermediate knowledge of python.
 
 🌍  I'm based in India <br>
-✉️  You can contact me at adityashf7@gmail.com.com <br>
+✉️  You can contact me at adityashf7@gmail.com <br>
 🚀  I'm currently working on Cloud Development & Networking. <br>
 🧠  I'm learning Data Structure and Algorithm + Data Science <br>
 🤝  I'm open to collaborating on projects <br>
