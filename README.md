@@ -2,12 +2,12 @@
 
 I am a Future Full-Stack developer I am still enhancing my skills in backend development I also have good knowledge of Programming languages like Java,C++ & JavaScript and intermediate knowledge of python.
 
-🌍  I'm based in India
-✉️  You can contact me at adityashf7@gmail.com.com
-🚀  I'm currently working on Cloud Development & Networking.
-🧠  I'm learning Data Structure and Algorithm + Data Science
-🤝  I'm open to collaborating on UI UX and Web developement
-⚡  I love to make connections online.
+🌍  I'm based in India <br>
+✉️  You can contact me at adityashf7@gmail.com.com <br>
+🚀  I'm currently working on Cloud Development & Networking. <br>
+🧠  I'm learning Data Structure and Algorithm + Data Science <br>
+🤝  I'm open to collaborating on UI UX and Web developement <br>
+⚡  I love to make connections online. <br>
 
 Skills
 <br>
@@ -25,3 +25,4 @@ Socials
 <br>
 <br>
 <a href="(https://www.linkedin.com/in/aditya-sharma-47b787201/)" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>
+<a href="https://www.twitter.com/penzemafan" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="max-width: 100%;"></a>
