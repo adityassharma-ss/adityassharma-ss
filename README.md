@@ -34,4 +34,4 @@ Badges
 <b>My GitHub Stats</b>
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityassharma-ss &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityassharma-ss&theme=radical)
