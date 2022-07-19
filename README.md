@@ -35,3 +35,9 @@ Badges
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityassharma-ss&theme=radical)
+
+<br>
+
+<a align="center" href="https://github.com/adityassharma-ss">
+<img alt="stats card" height="200px" width="400" src="https://camo.githubusercontent.com/25e88834170f04810c15e953670188a83035419fd7bf5a394f49edf8fc227f17/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d697368696b6b6b6b61616161267468656d653d7261646963616c" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=adityassharma-ss;theme=radical" style="max-width: 100%;">
+<img align="right" height="350" width="400" src="https://camo.githubusercontent.com/c2936194df62114ed0c0e6c4bc5923016d4b6098fa2ba7d172813aa9b9d7c2ca/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323233383034312f73637265656e73686f74732f343736333931382f776f726b696e672e676966" data-animated-image="" data-canonical-src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" style="max-width: 100%;"> </a>
