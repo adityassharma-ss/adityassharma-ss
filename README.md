@@ -1,4 +1,4 @@
-### Hey :wave: , I'm Aditya Sharma!
+###\# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Aditya Sharma!
 
 I am a Future Full-Stack developer I am still enhancing my skills in backend development I also have good knowledge of Programming languages like Java,C++ & JavaScript and intermediate knowledge of python.
 
