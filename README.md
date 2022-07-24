@@ -11,7 +11,7 @@ I am a Future Full-Stack developer I am still enhancing my skills in backend dev
 🤝  I'm open to collaborating on projects <br>
 ⚡  I love to make connections online. <br>
 
-<h3>Langauges and Tools familiar with </h3>
+<h3>Langauges and Frameworks familiar with </h3>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" style="max-width: 100%;"></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" style="max-width: 100%;"></a>
 <a href="https://www.oracle.com/java/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" style="max-width: 100%;"></a>
@@ -25,6 +25,10 @@ I am a Future Full-Stack developer I am still enhancing my skills in backend dev
 ## Operating Systems
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)	![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## Tools 
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)	![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)	![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)	![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
 
 <h3> Socials </h3>
 <a href="https://www.linkedin.com/in/aditya-sharma-47b787201/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>
