@@ -4,7 +4,7 @@ I am a Future Full-Stack developer I am still enhancing my skills in backend dev
 
 🌍  I'm based in India <br>
 ✉️  You can contact me at adityashf7@gmail.com <br>
-🚀  I'm currently working on Cloud Development & Networking. <br>
+🚀  I'm currently working on Cloud Development & DevOps. <br>
 🧠  I'm learning Data Structure and Algorithm and I have worked on projects related to IOT as well. <br>
 🤝  I'm open to collaborating on projects <br>
 ⚡  I love to make connections online. <br>
