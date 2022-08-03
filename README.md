@@ -1,6 +1,6 @@
 ### Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aditya     ![](https://komarev.com/ghpvc/?username=adityassharma-ss&color=blue)
 
-I am a Future Full-Stack developer I am still enhancing my skills in backend development I also have good knowledge of Programming languages like Java,C++ & JavaScript and intermediate knowledge of python.
+I am a Future Full-Stack developer I am still enhancing my skills in backend development I also have good knowledge of Programming languages like Java,C++ & JavaScript and intermediate knowledge of python & GoLang.
 
 🌍  I'm based in India <br>
 ✉️  You can contact me at adityashf7@gmail.com <br>
