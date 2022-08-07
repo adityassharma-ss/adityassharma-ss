@@ -39,7 +39,7 @@ I am a Future Full-Stack developer I am still enhancing my skills in backend dev
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityassharma-ss)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityassharma-ss)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
