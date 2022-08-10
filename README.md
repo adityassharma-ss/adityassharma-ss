@@ -49,6 +49,3 @@ I am a Future Full-Stack developer I am still enhancing my skills in backend dev
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityassharma-ss&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
-
