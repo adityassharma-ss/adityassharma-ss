@@ -8,7 +8,7 @@ I am a Future Full-Stack developer I am still enhancing my skills in backend dev
 🚀  I'm currently working on Cloud Development & DevOps. <br>
 🧠  I'm learning Data Structure and Algorithm and I have worked on projects related to IOT as well. <br>
 🤝  I'm open to collaborating on projects <br>
-⚡  I love to make connections online. <br>
+⚡  Open-Source Contributor <br>
 
 <h3>Langauges and Frameworks familiar with </h3>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" style="max-width: 100%;"></a>
