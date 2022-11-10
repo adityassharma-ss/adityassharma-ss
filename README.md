@@ -1,14 +1,13 @@
 ### Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aditya     
 ![](https://komarev.com/ghpvc/?username=adityassharma-ss&color=blue)
 
-I am a Future Full-Stack developer I am still enhancing my skills in backend development I also have good knowledge of Programming languages like Java,C++ & JavaScript and intermediate knowledge of python & GoLang.
+My name is Aditya Sharma. I am a future Full Stack Developer from India 🇮🇳. I have experience working with a range of different languages and frameworks.
 
-🌍  I'm based in India <br>
-✉️  You can contact me at adityashf7@gmail.com <br>
-🚀  I'm currently working on Cloud Development & DevOps. <br>
-🧠  I'm learning Data Structure and Algorithm and I have worked on projects related to IOT as well. <br>
-🤝  I'm open to collaborating on projects <br>
-⚡  Open-Source Contributor <br>
+    Skills: Java, React,JavaScript, MySQL, NoSQL, Python, C++
+    Currently Exploring: Cloud, AWS, DevOps
+    Interested in: Web3, DevOps, Web Development, DevRel.
+    Contact: adityashf7@gmail.com
+
 
 <h3>Langauges and Frameworks familiar with </h3>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" style="max-width: 100%;"></a>
