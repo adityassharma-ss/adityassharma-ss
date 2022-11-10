@@ -52,4 +52,4 @@ My name is Aditya Sharma. I am a future Full Stack Developer from India 🇮🇳
 [![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=adityassharma-ss&bg_color=000000&color=9e4c98&line=8080c0&point=ffff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
-[![@adityasharma's Holopin board](https://holopin.io/api/user/board?user=adityasharma)](https://holopin.io/@adityasharma)
+<!-- [![@adityasharma's Holopin board](https://holopin.io/api/user/board?user=adityasharma)](https://holopin.io/@adityasharma) -->
