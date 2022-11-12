@@ -5,7 +5,7 @@ My name is Aditya Sharma. I am a future Full Stack Developer from India 🇮🇳
 
     Skills: Java, React,JavaScript, MySQL, NoSQL, Python, C++
     Currently Exploring: Cloud, AWS, DevOps
-    Interested in: Web3, DevOps, Web Development, DevRel.
+    Interested in: Web3, DevOps, Web Development, DevRel, OpenSource.
     Contact: adityashf7@gmail.com
 
 
