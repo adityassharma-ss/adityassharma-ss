@@ -1,5 +1,5 @@
 <h1>Hi👋, I am Aditya Sharma</h1>
-<h5>A passionate Software Developer based in India</h5>
+<h4>A passionate Software Developer based in India</h4>
 
 # 💫 About Me:
 <br>🌱 I’m currently learning DevOps & Cloud<br>👨‍💻 All of my projects are available at github.com/adityassharma-ss<br>📝 I regularly write articles on https://adityash.hashnode.dev/<br>💬 Ask me about Java-Spring, Kubernetes, ReactJS<br>📫 How to reach me adityashf7@gmail.com<br>⚡ Fun fact I think I am funny<br>
@@ -102,8 +102,6 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=adityassharma-ss&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
