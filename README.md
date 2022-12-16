@@ -1,12 +1,13 @@
 <h1>Hi👋, I am Aditya Sharma</h1>
-<h4>A passionate Software Developer based in India</h4>
+<h4>A passionate Developer & Content Creator based in India</h4>
 
 # 💫 About Me:
 <br>🌱 I’m currently learning DevOps & Cloud<br>👨‍💻 All of my projects are available at github.com/adityassharma-ss<br>📝 I regularly write articles on https://adityash.hashnode.dev/<br>💬 Ask me about Java-Spring, Kubernetes, ReactJS & OpenSource<br>📫 How to reach me adityashf7@gmail.com<br>⚡ Fun fact I think I am funny<br>
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#3571) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sharma-47b787201) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adityatechhy) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#3571) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sharma-47b787201) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adityatechhy)<br/>
+Visit my Blog page: [Hashnode](https://hashnode.com/@adityash23)
 
 ## Tech-Stack:
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
