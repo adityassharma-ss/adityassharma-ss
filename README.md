@@ -2,7 +2,7 @@
 <h4>A passionate Software Developer based in India</h4>
 
 # 💫 About Me:
-<br>🌱 I’m currently learning DevOps & Cloud<br>👨‍💻 All of my projects are available at github.com/adityassharma-ss<br>📝 I regularly write articles on https://adityash.hashnode.dev/<br>💬 Ask me about Java-Spring, Kubernetes, ReactJS<br>📫 How to reach me adityashf7@gmail.com<br>⚡ Fun fact I think I am funny<br>
+<br>🌱 I’m currently learning DevOps & Cloud<br>👨‍💻 All of my projects are available at github.com/adityassharma-ss<br>📝 I regularly write articles on https://adityash.hashnode.dev/<br>💬 Ask me about Java-Spring, Kubernetes, ReactJS & OpenSource<br>📫 How to reach me adityashf7@gmail.com<br>⚡ Fun fact I think I am funny<br>
 
 
 ## 🌐 Socials:
