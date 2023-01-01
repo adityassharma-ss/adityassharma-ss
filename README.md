@@ -1,20 +1,15 @@
-<h1>Hi👋, I am Aditya Sharma</h1>
-<h4>A passionate Developer & Content Creator based in India</h4>
+<p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/82082352/210171671-6209a2ac-91ed-453a-bfa8-22fda94b4520.png"></p>
 
-# 💫 About Me:
-<br>🌱 I’m currently learning DevOps & Cloud<br>👨‍💻 All of my projects are available at github.com/adityassharma-ss<br>📝 I regularly write articles on https://adityash.hashnode.dev/<br>💬 Ask me about Java-Spring, Kubernetes, ReactJS & OpenSource<br>📫 How to reach me adityashf7@gmail.com<br>⚡ Fun fact I think I am funny<br>
+<p align="center"> I'm a fullstack & DevOps Developer. I'm in love with Opensource, Communties and also am building an Opensource project. I am up for freelancing projects, mentorships, workshops. </p>
 
+<p align="center"> Visit my <a href="aditya-sage.vercel.app"> Portfolio </a> </p>
 
-## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#3571) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sharma-47b787201) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adityatechhy)<br/>
 Checkout my Blog page: [Hashnode](https://hashnode.com/@adityash23)
 
 ## Tech-Stack:
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-
-  <h3>👨‍💻 Programming and Markup Languages</h3>
-
-  <p>
+<h3>👨‍💻 Programming and Markup Languages</h3>
+<p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
