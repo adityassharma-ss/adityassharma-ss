@@ -3,6 +3,7 @@
 <p align="center"> I'm a fullstack & DevOps Developer. I'm in love with Opensource, Communties and also am building an Opensource project. I am up for freelancing projects, mentorships, workshops. </p>
 
 <p align="center"> Visit my <a href="https://aditya-sage.vercel.app"> Portfolio </a> </p>
+<p align="center">Visit my<a href="https://adityash.hashnode.dev/"> Hashnode Profile </a>for Tech-Blogs</p>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#3571) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sharma-47b787201) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adityatechhy)</br>
 
