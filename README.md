@@ -69,4 +69,4 @@
 
 ## 📊 Github Stats and Activity
 
-<p align="left"><a href=""><img alt="Aditya's stats" src="https://streak-stats.demolab.com?user=adityassharma-ss&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aditya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adityassharma-ss&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> </p>
+<p align="left"><a href=""><img alt="Aditya's stats" src="https://streak-stats.demolab.com?user=adityassharma-ss&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a> <a  align="right" href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aditya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adityassharma-ss&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> </p>
