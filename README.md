@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=manjaro&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=manjaro&logoColor=white&color=61D9FA&labelColor=20232A"/>
+	<img src="https://img.shields.io/badge/OS-RaspeberryPi-informational?style=flat&logo=manjaro&logoColor=white&color=61D9FA&labelColor=20232A"/>
+	<img src="https://img.shields.io/badge/OS-Arduino-informational?style=flat&logo=manjaro&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=61D9FA&labelColor=20232A"/>
@@ -42,12 +44,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=61D9FA&labelColor=20232A"/>
-      <img src="https://img.shields.io/badge/YAML-DevOps-informational" />
-      <img src="https://img.shields.io/badge/Kubernetes-DevOps-informational" />
-      <img src="https://img.shields.io/badge/Docker-DevOps-informational"/>
-      <img src="https://img.shields.io/badge/Git%2FGitHub-DevOps-informational" />
-      <img src="https://img.shields.io/badge/CI--CD-DevOps-informational" />
-      <img src="https://img.shields.io/badge/AWS-DevOps-informational" />
+      <img src="https://img.shields.io/badge/YAML-DevOps-informational?style=flat&logo=powershell&logoColor=white&color=61D9FA&labelColor=20232A" />
+      <img src="https://img.shields.io/badge/Kubernetes-DevOps-informational?style=flat&logo=powershell&logoColor=white&color=61D9FA&labelColor=20232A" />
+      <img src="https://img.shields.io/badge/Docker-DevOps-informational?style=flat&logo=powershell&logoColor=white&color=61D9FA&labelColor=20232A"/>
+      <img src="https://img.shields.io/badge/Git%2FGitHub-DevOps-informational?style=flat&logo=powershell&logoColor=white&color=61D9FA&labelColor=20232A" />
+      <img src="https://img.shields.io/badge/CI--CD-DevOps-informational?style=flat&logo=powershell&logoColor=white&color=61D9FA&labelColor=20232A" />
+      <img src="https://img.shields.io/badge/AWS-DevOps-informational?style=flat&logo=powershell&logoColor=white&color=61D9FA&labelColor=20232A" />
 </p>  
 <p align="center">
   <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=61D9FA&labelColor=20232A"/>
