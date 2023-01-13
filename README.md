@@ -1,7 +1,6 @@
-<p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/82082352/210171671-6209a2ac-91ed-453a-bfa8-22fda94b4520.png"></p>
+<p align="center"><img alt="Aditya's Profile Banner" src="https://user-images.githubusercontent.com/82082352/210171671-6209a2ac-91ed-453a-bfa8-22fda94b4520.png"></p>
 
 <p align="center"> I'm a fullstack & DevOps Developer. I'm in love with Opensource, Communties and also am building an Opensource project. I am up for freelancing projects, mentorships, workshops. </p>
-
 <p align="center"> Visit my <a href="https://aditya-sage.vercel.app"> Portfolio </a> </p>
 <p align="center">Visit my<a href="https://adityash.hashnode.dev/"> Hashnode Profile </a>for Tech-Blogs</p>
 
@@ -71,6 +70,13 @@
 
 ## 📊 Github Stats and Activity
 
-<p align="center"><a href=""><img alt="Aditya's stats" src="https://streak-stats.demolab.com?user=adityassharma-ss&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a>  </p>
-
-<p align="center"> <a  align="right" href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aditya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adityassharma-ss&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> </p>
+<div style="display: flex;">
+  <div style="flex: 1;", "align: left;">
+    <a href="https://streak-stats.demolab.com?user=adityassharma-ss&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+      <img alt="Aditya's stats" src="https://streak-stats.demolab.com?user=adityassharma-ss&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Aditya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adityassharma-ss&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    </a>
+  </div>
+</div>
