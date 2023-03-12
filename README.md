@@ -68,12 +68,16 @@
   <img src="https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>
 
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://adityash.hashnode.dev/the-road-to-burnout-recovery-strategies-for-overcoming-and-preventing-burnout" title="The Road to Burnout Recovery: Strategies for Overcoming and Preventing Burnout"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678299465033/e61c5cd0-0056-4fcb-8160-dc7ae5f4a581.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="" width="250px" align="left" /></a>
+<a href="https://adityash.hashnode.dev/the-road-to-burnout-recovery-strategies-for-overcoming-and-preventing-burnout" title="The Road to Burnout Recovery: Strategies for Overcoming and Preventing Burnout"><strong> Strategies for Overcoming and Preventing Burnout</strong></a>
+<br/> A Novice's Journey in the Tech Industry and the Lessons Learned for Maintaining Work-Life Balance ... </p> <br/> <br/>
+
+<!-- HASHNODE_BLOG:END -->
+
 ## 📊 Github Stats and Activity
-<p align="center">
-    <a href="https://streak-stats.demolab.com?user=adityassharma-ss&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-      <img alt="Aditya's stats" src="https://streak-stats.demolab.com?user=adityassharma-ss&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-    </a>
-  </p>
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
