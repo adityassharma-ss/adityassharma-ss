@@ -71,9 +71,13 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://adityash.hashnode.dev/amazons-elastic-beanstalk" title="Amazon's Elastic Beanstalk"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679211137251/6e2e80c9-a838-4681-9455-eb4779cf52b7.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="" width="250px" align="left" /></a>
+<a href="https://adityash.hashnode.dev/amazons-elastic-beanstalk" title="Amazon's Elastic Beanstalk"><strong> Streamlining Application Deployment and Scalability with Amazon's Elastic Beanstalk</strong></a>
+<br/> Amazon Elastic Beanstalk is a service offered by Amazon Web Services (AWS) that simplifies the deployment and management of applications ... </p> <br/>
+<p align="left">
 <a href="https://adityash.hashnode.dev/the-road-to-burnout-recovery-strategies-for-overcoming-and-preventing-burnout" title="The Road to Burnout Recovery: Strategies for Overcoming and Preventing Burnout"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678299465033/e61c5cd0-0056-4fcb-8160-dc7ae5f4a581.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="" width="250px" align="left" /></a>
 <a href="https://adityash.hashnode.dev/the-road-to-burnout-recovery-strategies-for-overcoming-and-preventing-burnout" title="The Road to Burnout Recovery: Strategies for Overcoming and Preventing Burnout"><strong> Strategies for Overcoming and Preventing Burnout</strong></a>
-<br/> A Novice's Journey in the Tech Industry and the Lessons Learned for Maintaining Work-Life Balance ... </p> <br/> <br/>
+<br/> A Novice's Journey in the Tech Industry and the Lessons Learned for Maintaining Work-Life Balance ... </p> <br/>
 
 <!-- HASHNODE_BLOG:END -->
 
