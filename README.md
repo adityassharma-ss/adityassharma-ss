@@ -75,9 +75,9 @@
 <a href="https://adityash.hashnode.dev/amazons-elastic-beanstalk" title="Amazon's Elastic Beanstalk"><strong> Streamlining Application Deployment and Scalability with Amazon's Elastic Beanstalk</strong></a>
 <br/> Amazon Elastic Beanstalk is a service offered by Amazon Web Services (AWS) that simplifies the deployment and management of applications ... </p> <br/>
 <p align="left">
-<a href="https://adityash.hashnode.dev/the-road-to-burnout-recovery-strategies-for-overcoming-and-preventing-burnout" title="The Road to Burnout Recovery: Strategies for Overcoming and Preventing Burnout"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678299465033/e61c5cd0-0056-4fcb-8160-dc7ae5f4a581.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="" width="250px" align="left" /></a>
-<a href="https://adityash.hashnode.dev/the-road-to-burnout-recovery-strategies-for-overcoming-and-preventing-burnout" title="The Road to Burnout Recovery: Strategies for Overcoming and Preventing Burnout"><strong> Strategies for Overcoming and Preventing Burnout</strong></a>
-<br/> A Novice's Journey in the Tech Industry and the Lessons Learned for Maintaining Work-Life Balance ... </p> <br/>
+<a href="https://adityash.hashnode.dev/the-road-to-burnout-recovery-strategies-for-overcoming-and-preventing-burnout" title="The Road to Burnout Recovery: Strategies for Overcoming and Preventing Burnout"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691088576460/6d4f45b7-c8b0-4c05-8391-7ae6905847d0.avif?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="" width="250px" align="left" /></a>
+<a href="https://adityash.hashnode.dev/helm-chart-that-deploys-your-application" title="Helm Chart That Deploys Your Application"><strong>This post outlines the steps and configurations for deploying an application using Helm, a Kubernetes package manager </strong></a>
+<br/> A helm chart that deploys your application which utilizes the following Kubernetes objects: ● Deployments ● Service ● K8s Secrets ... </p> <br/>
 
 <!-- HASHNODE_BLOG:END -->
 
